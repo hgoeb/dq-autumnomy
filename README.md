@@ -1,7 +1,8 @@
 # dq-autumnomy
 Komodo IDE Color Scheme: Dark Warm Gray inspired by autumn colors
 
-** Important Note ! **
+
+### Important Note ! ###
 I have developed the color scheme with the following fonts
 * Hack (for editor)
 * Encode Sans (for Interface and Widgets)
