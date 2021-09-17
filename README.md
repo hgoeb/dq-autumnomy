@@ -9,3 +9,7 @@ I have developed the color scheme with the following fonts
 
 You may want to install them first.
 You can alway overwrite my font setting with your personal preferences.
+
+
+# Screenshot JS
+![](dq_autumnomy_screenshot_komodo.jpg)
